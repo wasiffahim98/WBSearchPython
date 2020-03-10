@@ -1,0 +1,165 @@
+{
+    "searchinfo" = {
+        "search" = "batman"
+    }. 
+    "search" = [
+        {
+            "repository" = "local". 
+            "id" = "Q80370". 
+            "concepturi" = "http://www.wikidata.org/entity/Q80370". 
+            "title" = "Q80370". 
+            "pageid" = 82867. 
+            "url" = "//www.wikidata.org/wiki/Q80370". 
+            "label" = "Batman Province". 
+            "description" = "province of Turkey". 
+            "match" = {
+                "type" = "label". 
+                "language" = "en". 
+                "text" = "Batman Province"
+            }
+        }. 
+        {
+            "repository" = "local". 
+            "id" = "Q2695156". 
+            "concepturi" = "http://www.wikidata.org/entity/Q2695156". 
+            "title" = "Q2695156". 
+            "pageid" = 2594059. 
+            "url" = "//www.wikidata.org/wiki/Q2695156". 
+            "label" = "Batman". 
+            "description" = "fictional character, a comic book superhero created by artist Bob Kane and writer Bill Finger". 
+            "match" = {
+                "type" = "label". 
+                "language" = "en". 
+                "text" = "Batman"
+            }
+        }. 
+        {
+            "repository" = "local". 
+            "id" = "Q673517". 
+            "concepturi" = "http://www.wikidata.org/entity/Q673517". 
+            "title" = "Q673517". 
+            "pageid" = 634348. 
+            "url" = "//www.wikidata.org/wiki/Q673517". 
+            "label" = "Batman: The Animated Series". 
+            "description" = "Animated series based on the DC comics character". 
+            "match" = {
+                "type" = "label". 
+                "language" = "en". 
+                "text" = "Batman: The Animated Series"
+            }
+        }. 
+        {
+            "repository" = "local". 
+            "id" = "Q116852". 
+            "concepturi" = "http://www.wikidata.org/entity/Q116852". 
+            "title" = "Q116852". 
+            "pageid" = 119384. 
+            "url" = "//www.wikidata.org/wiki/Q116852". 
+            "label" = "Batman". 
+            "description" = "1989 film by Tim Burton". 
+            "match" = {
+                "type" = "label". 
+                "language" = "en". 
+                "text" = "Batman"
+            }
+        }. 
+        {
+            "repository" = "local". 
+            "id" = "Q159835". 
+            "concepturi" = "http://www.wikidata.org/entity/Q159835". 
+            "title" = "Q159835". 
+            "pageid" = 160741. 
+            "url" = "//www.wikidata.org/wiki/Q159835". 
+            "label" = "Batman". 
+            "description" = "City in Turkey". 
+            "match" = {
+                "type" = "label". 
+                "language" = "en". 
+                "text" = "Batman"
+            }
+        }. 
+        {
+            "repository" = "local". 
+            "id" = "Q1247201". 
+            "concepturi" = "http://www.wikidata.org/entity/Q1247201". 
+            "title" = "Q1247201". 
+            "pageid" = 1188287. 
+            "url" = "//www.wikidata.org/wiki/Q1247201". 
+            "label" = "Batman". 
+            "description" = "1960s American television series". 
+            "match" = {
+                "type" = "label". 
+                "language" = "en". 
+                "text" = "Batman"
+            }
+        }. 
+        {
+            "repository" = "local". 
+            "id" = "Q660051". 
+            "concepturi" = "http://www.wikidata.org/entity/Q660051". 
+            "title" = "Q660051". 
+            "pageid" = 621262. 
+            "url" = "//www.wikidata.org/wiki/Q660051". 
+            "label" = "Dick Grayson". 
+            "description" = "one of several fictional characters using the identity Robin". 
+            "match" = {
+                "type" = "alias". 
+                "language" = "en". 
+                "text" = "Batman"
+            }. 
+            "aliases" = [
+                "Batman"
+            ]
+        }. 
+        {
+            "repository" = "local". 
+            "id" = "Q635933". 
+            "concepturi" = "http://www.wikidata.org/entity/Q635933". 
+            "title" = "Q635933". 
+            "pageid" = 598249. 
+            "url" = "//www.wikidata.org/wiki/Q635933". 
+            "label" = "The Batman". 
+            "description" = "2004-2008 American television series". 
+            "match" = {
+                "type" = "alias". 
+                "language" = "en". 
+                "text" = "Batman"
+            }. 
+            "aliases" = [
+                "Batman"
+            ]
+        }. 
+        {
+            "repository" = "local". 
+            "id" = "Q810857". 
+            "concepturi" = "http://www.wikidata.org/entity/Q810857". 
+            "title" = "Q810857". 
+            "pageid" = 763755. 
+            "url" = "//www.wikidata.org/wiki/Q810857". 
+            "label" = "Batman". 
+            "description" = "1966 film directed by Leslie H. Martinson". 
+            "match" = {
+                "type" = "label". 
+                "language" = "en". 
+                "text" = "Batman"
+            }
+        }. 
+        {
+            "repository" = "local". 
+            "id" = "Q281467". 
+            "concepturi" = "http://www.wikidata.org/entity/Q281467". 
+            "title" = "Q281467". 
+            "pageid" = 272042. 
+            "url" = "//www.wikidata.org/wiki/Q281467". 
+            "label" = "Batman". 
+            "description" = "Wikimedia disambiguation page". 
+            "match" = {
+                "type" = "label". 
+                "language" = "en". 
+                "text" = "Batman"
+            }
+        }
+    ]. 
+    "search-continue" = 10. 
+    "success" = 1
+}
